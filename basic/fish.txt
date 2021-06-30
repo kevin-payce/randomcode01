@@ -1,0 +1,47 @@
+[
+{
+"fish_name":"Minnow",
+"fish_quality":"Poor",
+"fish_price" : 1
+},
+{
+"fish_name":"Sprat",
+"fish_quality":"Good",
+"fish_price" : 2
+},
+{
+"fish_name":"Goldfish",
+"fish_quality":"Good",
+"fish_price" : 10
+},
+{
+"fish_name":"Sprat",
+"fish_quality":"Good",
+"fish_price" : 2
+},
+{
+"fish_name":"Sprat",
+"fish_quality":"Good",
+"fish_price" : 2
+},
+{
+"fish_name":"Sprat",
+"fish_quality":"Good",
+"fish_price" : 2
+},
+{
+"fish_name":"Sprat",
+"fish_quality":"Good",
+"fish_price" : 2
+},
+{
+"fish_name":"Sprat",
+"fish_quality":"Good",
+"fish_price" : 2
+},
+{
+"fish_name":"Sprat",
+"fish_quality":"Good",
+"fish_price" : 2
+}
+]
